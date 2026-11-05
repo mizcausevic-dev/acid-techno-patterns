@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:46.481844+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "967c717a99cc2b842f75e1e0e5c3c7848fcda3388724a1dba021698fcdfa2a85",
+      "errors": []
+    },
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d3dba0d0b1a5490c4bd75293f5009af3a5a7d728bc55c058f80cd5ffc3f59cfb",
+      "errors": []
+    },
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "d991afe58174b6ddf2043a2c337b588f1cbde12d94f51daaba0298617f914cb7",
+      "errors": []
+    },
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "1ad197c46b75d465bdcca52bf03ccd6498bba817267c6dbd00820fda66952c66",
+      "errors": []
+    },
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e34c494a06663538bd60e4ee3a37df14ddd37623d4259763d44b07bd5612de8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1801-acid-techno-patterns-opening/z1801-acid-techno-patterns-opening-combined.mid",
+      "bytes": 6037,
+      "sha256": "873f6ad4fb476e3186266c93d5f49a0069c4cd340a1135d6bf24a03d8d3de838",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "81a9279bd3674efc633e9118a2a697c608fc2959e98200848f8de83ebeca1bc6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e61ac60d1bd4d13490cad6e3cd23f3eb049bda79625a4b9f23a8496bd26f0268",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "3312a3ef2c8915ec8846630498b3860c61aca892ba7ae34e8ef1d7d2ef403b16",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "02cca0bf6e17fc89bf34090267a5b28b6ff61419f95c4848f29efa8dc238c60e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e05699a596ff6a92687b25c24c69c72acb3a83467ef7bb26ea720ecc6f09f2f1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1802-acid-techno-patterns-variation/z1802-acid-techno-patterns-variation-combined.mid",
+      "bytes": 6037,
+      "sha256": "f455aebf5352319d342c5fc4ae2d0a5891acea56e3a815a8be769a5789fd4752",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "94840c673b94cec10b435fcade556f5a8a59404b575484118831e3c127d6cade",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fe6b2c600fed7a5c63b1cde3f667362d8765a3af6e63b4df9b328c735cec46d8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "83706e5907412c6444b260f17c0acc7fe719b28bab34d6194923a5df740e958a",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "461b2555d462ec169f97de67293eeef2857925b1fd13fecf468af4a3cd620cad",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c7f257041f27e2efefb4806901a0a50ab69370527d27f1e23534e4507ccfabb6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1803-acid-techno-patterns-contrast/z1803-acid-techno-patterns-contrast-combined.mid",
+      "bytes": 6003,
+      "sha256": "aacd2c996acc981134ae5b080951873cc0f3047d91d0d1ab44871683f562b8f9",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "265df4822e84f59015ca1e589a6ac4961f282b26f50bfe5609b0b5aa3af7c931",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "2af6cc1f2d70f97f3c2e7d4e6ae748c5f7a8c8f24cda1cefa2bf1ff452d98636",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "ee4393c34eb804ceb1d7aaecaacc3d835c49e346c9205df1456452dbd1c2182c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "167d8011906afb12249be4d1da7b2b6eb068cda82acebd5f6ec9c6642c0bf039",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "298a2470b3604bcf5fb8aec3d05284fdb2501e2007c2989db3b64e43f47bf76b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1804-acid-techno-patterns-return/z1804-acid-techno-patterns-return-combined.mid",
+      "bytes": 6003,
+      "sha256": "c812b849f88061b9d23bad40b840d3ac3db06ca384f0d920a4fa5b57690b0202",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Acid Techno Patterns",
+  "study": "z1801",
+  "bpm": 132,
+  "source_audio": "preview/acid-techno-patterns-simple-synth-preview.mp3",
+  "source_audio_sha256": "7a6a977b97e068ce90a5f6eeb82b981ee438278a36277d6c83177e46e9f7d5d4",
+  "source_midi": "midi/z1801-acid-techno-patterns-opening/z1801-acid-techno-patterns-opening-combined.mid",
+  "source_midi_sha256": "873f6ad4fb476e3186266c93d5f49a0069c4cd340a1135d6bf24a03d8d3de838",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f53db24bdaccea43b11ba63bb4bb3c1a0524ada9ab79f7fdca556763dc6e30c2",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "969561e5f9ee8690df1714ab4c38f883ad06b72ecf2e623359321aa0ce88aa62",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "20e789b62063e86da35be7b370a1597bd5c949bbbdcfefae3a917aea685bcd37",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

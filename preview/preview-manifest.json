@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/acid-techno-patterns-simple-synth-preview.mp3",
+  "preview_sha256": "7a6a977b97e068ce90a5f6eeb82b981ee438278a36277d6c83177e46e9f7d5d4",
+  "source_midi_path": "midi/z1801-acid-techno-patterns-opening/z1801-acid-techno-patterns-opening-combined.mid",
+  "source_midi_sha256": "873f6ad4fb476e3186266c93d5f49a0069c4cd340a1135d6bf24a03d8d3de838",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1801",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.125249,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

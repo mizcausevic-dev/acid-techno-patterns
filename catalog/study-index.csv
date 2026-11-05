@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+z1801,Acid Techno Patterns Opening,pack-local equal-tempered pitch collection,A#,132,4/4,480,32,61440,midi/z1801-acid-techno-patterns-opening/z1801-acid-techno-patterns-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z1802,Acid Techno Patterns Variation,pack-local equal-tempered pitch collection,C#,132,4/4,480,32,61440,midi/z1802-acid-techno-patterns-variation/z1802-acid-techno-patterns-variation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z1803,Acid Techno Patterns Contrast,pack-local equal-tempered pitch collection,E,132,4/4,480,32,61440,midi/z1803-acid-techno-patterns-contrast/z1803-acid-techno-patterns-contrast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z1804,Acid Techno Patterns Return,pack-local equal-tempered pitch collection,B,132,4/4,480,32,61440,midi/z1804-acid-techno-patterns-return/z1804-acid-techno-patterns-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
