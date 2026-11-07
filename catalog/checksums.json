@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/acid-techno-patterns-midi.zip",
-      "bytes": 31577,
-      "sha256": "f9cf2daf21e54de59edf8783c2d1d4f44ed0b85a04c8c12df75cc4396ae5507e"
+      "bytes": 32564,
+      "sha256": "fc1f8c9ec79beca1ae378f253958b2158a5cc46dca0359e4824c9764636c84e1"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9924,
-      "sha256": "600e4e08be529c95d1a10ea0cfe729ba923f46ce04a5ce27cbedb4aa0186966b"
+      "bytes": 10114,
+      "sha256": "f3823be6dba839be24fe8f4c351a9989a1ab3fb7f412be57e00c522c90b13e4f"
     },
     {
       "path": "midi/z1801-acid-techno-patterns-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "c812b849f88061b9d23bad40b840d3ac3db06ca384f0d920a4fa5b57690b0202"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/acid-techno-patterns-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "7a6a977b97e068ce90a5f6eeb82b981ee438278a36277d6c83177e46e9f7d5d4"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3962,
-      "sha256": "41c08e7e67c347a78b432a7a0c4d85b9c2d055b9dab39dece68777fc0bb34f79"
+      "bytes": 4077,
+      "sha256": "4fe10e22083349a33743ee78ec4183d5bf0184705b809b8a870d07516925329e"
     },
     {
       "path": "social/instagram/caption.txt",
